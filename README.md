@@ -15,7 +15,7 @@ Visit the website: [up-for-grabs.net](https://up-for-grabs.net/)
 - Ensure all spaces and special characters are replaced with `-`, to make everyone's life easier.
 - [This guide](https://help.github.com/articles/creating-new-files/) shows you how to create the file directly in the browser, without cloning the repository in the command line.
 
-The contents of the file are just some details about the project:
+The contents of the file are just some fun facts about the project:
 
 ```yaml
 name: *project name*
